@@ -1,0 +1,10 @@
+type   LIB
+status   Completed
+lock   on
+title   Butyl_acetate_gHMBC_01 
+exp   gHMBC
+time   
+macro   return
+data   /home/data/Deurer/Butyl_acetate_20160628/Butyl_acetate_gHMBC_01
+CPnode   gHMBC_002
+tooltext   Butyl_acetate_20160628

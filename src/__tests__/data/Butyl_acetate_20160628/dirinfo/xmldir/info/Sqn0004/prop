@@ -1,0 +1,10 @@
+type   LIB
+status   Completed
+lock   on
+title   Butyl_acetate_PROTON_01 
+exp   PROTON
+time   
+macro   return
+data   /home/data/Deurer/Butyl_acetate_20160628/Butyl_acetate_PROTON_01
+CPnode   PROTON_001
+tooltext   PROTON

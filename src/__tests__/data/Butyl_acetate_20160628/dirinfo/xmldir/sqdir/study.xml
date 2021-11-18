@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE template>
+
+<template>
+  <protocol title="Butyl_acetate_20160628" type="protocol" exp="grandparent" lock="off" id="tmpstudy" tooltext="Butyl_acetate" expanded="true">
+    <action   type="LIB"  status="Completed"  lock="on"  title="Butyl_acetate_PROTON_01 "  exp="PROTON"  time=""  macro="return"  data="/home/data/Deurer/Butyl_acetate_20160628/Butyl_acetate_PROTON_01"  CPnode="PROTON_001"  tooltext="PROTON"  id="Sqn0004"  />
+    <action   type="LIB"  status="Completed"  lock="on"  title="Butyl_acetate_CARBON_01 "  exp="CARBON"  time=""  macro="return"  data="/home/data/Deurer/Butyl_acetate_20160628/Butyl_acetate_CARBON_01"  CPnode="CARBON_001"  tooltext="Butyl_acetate_20160628"  id="Sqn0003"  />
+    <action   type="LIB"  status="Completed"  lock="on"  title="Butyl_acetate_gHSQC_01 "  exp="gHSQC"  time=""  macro="return"  data="/home/data/Deurer/Butyl_acetate_20160628/Butyl_acetate_gHSQC_01"  CPnode="gHSQC_002"  tooltext="Butyl_acetate_20160628"  id="Sqn0002"  />
+    <action   type="LIB"  status="Completed"  lock="on"  title="Butyl_acetate_gHMBC_01 "  exp="gHMBC"  time=""  macro="return"  data="/home/data/Deurer/Butyl_acetate_20160628/Butyl_acetate_gHMBC_01"  CPnode="gHMBC_002"  tooltext="Butyl_acetate_20160628"  id="Sqn0001"  />
+  </protocol>
+</template>

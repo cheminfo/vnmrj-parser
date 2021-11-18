@@ -1,0 +1,10 @@
+type   LIB
+status   Completed
+lock   on
+title   Butyl_acetate_CARBON_01 
+exp   CARBON
+time   
+macro   return
+data   /home/data/Deurer/Butyl_acetate_20160628/Butyl_acetate_CARBON_01
+CPnode   CARBON_001
+tooltext   Butyl_acetate_20160628

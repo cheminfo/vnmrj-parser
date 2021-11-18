@@ -1,0 +1,10 @@
+SAMPLE#: 6
+USER: Deurer
+MACRO: cpautoQ('loc6_002','night')
+SOLVENT: cdcl3
+TEXT: Butyl_acetate
+SampleDir: Butyl_acetate
+USERDIR: /home/vnmr1/vnmrsys
+DATA: 
+STATUS: Queued
+---------------------------------------------
